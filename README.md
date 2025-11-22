@@ -49,13 +49,13 @@ Valor Monetário (M): Soma do TotalPrice de cada cliente.
 5. Clientes em Risco: Clientes com um longo período desde a última compra e baixa frequência e um ticket médio intermediário - Campanhas de Reativação: Enviar ofertas de "saudade" com descontos ou frete grátis por tempo limitado, visando reativar a recência. Personalização Forte: Usar recomendações de produtos altamente personalizadas, baseadas no que eles costumavam comprar. Identificar a Causa: Se possível, tentar entender por que o cliente parou de comprar (pesquisa rápida, por exemplo).
 
 6. Clientes Perdidos: Clientes que não compram a muito tempo e não compram com frequência - È preciso estudar se é viável mover ações para fazer com que esses clientes compre novamente, pois para reativá-los pode ter um custo muito alto. Oferta de Última Chance: Enviar uma oferta agressiva (alto desconto) para tentar uma reativação. Se a resposta for zero, considere movê-los para uma lista de exclusão de marketing pago para otimizar o custo de mídia. Exclusão de Listas: Evitar gastar recursos (tempo, dinheiro em anúncios) com quem tem baixíssima chance de retorno. Foque os esforços nos segmentos mais rentáveis.
-![Análise 1](img/2.png)
+
 
 #### Monetização por Pais
 
 A empresa possui a sua maior força de monetização na Europa, principalmente no Reino Unido.
 Mesmo o Reino Unido tendo a maior força possui um déficit grande "Clientes Campeões", assim como os demais países da Europa.
-![Análise 1](img/3.png)
+  ![Análise 1](img/3.png)
 ![Análise 1](img/4.png)
 
 #### Produto
