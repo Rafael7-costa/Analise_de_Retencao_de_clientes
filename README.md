@@ -32,7 +32,7 @@ Valor Monetário (M): Soma do TotalPrice de cada cliente.
 #### Qual o produto mais comprado por segmento?
 
 # SEGMENTAÇÃO RFM
-
+![Análise 1](img/1.png)
 
 # INSIGTHS DA ANALISE
 
@@ -49,21 +49,24 @@ Valor Monetário (M): Soma do TotalPrice de cada cliente.
 5. Clientes em Risco: Clientes com um longo período desde a última compra e baixa frequência e um ticket médio intermediário - Campanhas de Reativação: Enviar ofertas de "saudade" com descontos ou frete grátis por tempo limitado, visando reativar a recência. Personalização Forte: Usar recomendações de produtos altamente personalizadas, baseadas no que eles costumavam comprar. Identificar a Causa: Se possível, tentar entender por que o cliente parou de comprar (pesquisa rápida, por exemplo).
 
 6. Clientes Perdidos: Clientes que não compram a muito tempo e não compram com frequência - È preciso estudar se é viável mover ações para fazer com que esses clientes compre novamente, pois para reativá-los pode ter um custo muito alto. Oferta de Última Chance: Enviar uma oferta agressiva (alto desconto) para tentar uma reativação. Se a resposta for zero, considere movê-los para uma lista de exclusão de marketing pago para otimizar o custo de mídia. Exclusão de Listas: Evitar gastar recursos (tempo, dinheiro em anúncios) com quem tem baixíssima chance de retorno. Foque os esforços nos segmentos mais rentáveis.
-
+![Análise 1](img/2.png)
 
 #### Monetização por Pais
 
 A empresa possui a sua maior força de monetização na Europa, principalmente no Reino Unido.
 Mesmo o Reino Unido tendo a maior força possui um déficit grande "Clientes Campeões", assim como os demais países da Europa.
-
+![Análise 1](img/3.png)
+![Análise 1](img/4.png)
 
 #### Produto
 
-O pais que teve mais quantidade e variedade <span>de produtos vendidos também foi o Reino Unido.
+O pais que teve mais quantidade e variedade de produtos vendidos também foi o Reino Unido.
+![Análise 1](img/5.png)
 
 Uma observação em relação ao produto mais vendido, o segmento de "Novos Clientes" foi oque mais comprou materiais de escritório.
 
 Já o segmento de "Clientes Perdidos" mais comprou foi um jarro de cerâmica, que seria interessante coletar o feedback sobre esse produto para medir a correlação por ter sido mais comprado por um segmento específico.
+![Análise 1](img/6.png)
 
 Já os "Clientes Campeões" possuem uma grande variedade e quantidade de produtos comprados, mostrando um forte engajamento com os produtos da empresa.
 
@@ -71,11 +74,11 @@ Já os "Clientes Campeões" possuem uma grande variedade e quantidade de produto
 
 Após separar os clientes por segmento foi descoberto que a empresa possui um grande número de clientes perdidos, e pouca quantidade de clientes campeões e clientes fiéis, é preciso estudar e fazer ações para que os demais segmentos de clientes comprem mais rápido e com mais frequência aumentando o faturamento da empresa retendo mais clientes.
 
-Para os clientes se tornarem "Campeões" eles precisam comprar em média:
-A cada 11 dias
-Ter uma frequência acima de 13
-Com um ticket médio de pelo menos R$590,00
-E ter um forte engajamento com os demais produtos da empresa
+#### Para os clientes se tornarem "Campeões" eles precisam comprar em média:
+#### A cada 11 dias
+#### Ter uma frequência acima de 13
+#### Com um ticket médio de pelo menos R$590,00
+#### E ter um forte engajamento com os demais produtos da empresa
 
 # VISUALISE A ANALISE COMPLETA
 https://lookerstudio.google.com/reporting/81e4d2bb-3685-4738-9f27-b87ead450ae3
