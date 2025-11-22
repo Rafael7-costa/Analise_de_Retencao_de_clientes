@@ -18,8 +18,11 @@ Utilização da regra de negócio para clacificar o segmento de cada cliente
 #### Limpeza de Dados: Tratar valores nulos e corrigir valores inconsistentes
 #### Cálculo do RFM:
 Recência (R): Quantos dias faz desde a última compra de cada cliente.
+
 Frequência (F): Total de transações únicas de cada cliente.
+
 Valor Monetário (M): Soma do TotalPrice de cada cliente.
+
 #### Segmentar a Base de Clientes: Utilizar a metodologia RFM (Recência, Frequência, Valor Monetário) para classificar os clientes em grupos estratégicos (por exemplo, "Clientes Leais", "Clientes em Risco", "Novos Clientes").
 
 # FERRAMENTA UTILIZADAS
