@@ -11,6 +11,7 @@ Identificar Padrões de Compra: Entender o que diferencia os clientes de alto va
 # PREMISSAS DA ANÁLISE
 
 Dados hitóricos de compra dos clientes de vários paises em que a empresa atua de 2010 há 2011
+
 Utilização da regra de negócio para clacificar o segmento de cada cliente
 
 # ESTRATEGIA DA SOLUÇAO
